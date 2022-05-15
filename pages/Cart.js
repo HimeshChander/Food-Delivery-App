@@ -6,7 +6,7 @@ const Cart = () => {
       <div className={styles.left}>
         <table className={styles.table}>
           <thead>
-            <tr className={styles.tr}>
+            <tr className={styles.trHead}>
               <th>Product</th>
               <th>Name</th>
               <th>Extras</th>
